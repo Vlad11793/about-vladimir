@@ -36,7 +36,7 @@ body {
 	background-size: cover;
 	font-size: larger;
 	font-weight: bold;
-	text-shadow: 0 0 1px;
+	text-shadow: 0 0 1px black;
 }
 p {
 	color: white;
@@ -44,5 +44,5 @@ p {
 }
 .putin{
 	color: white;
-	text-shadow: 0 0 1px;
+	text-shadow: 0 0 1px black;
 }
