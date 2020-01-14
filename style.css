@@ -34,8 +34,9 @@ body {
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
-	font-size: large;
+	font-size: larger;
 	font-weight: bold;
+	text-shadow: 0 0 1px;
 }
 p {
 	color: white;
@@ -43,4 +44,5 @@ p {
 }
 .putin{
 	color: white;
+	text-shadow: 0 0 1px;
 }
